@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 [![0xC0FF3B4B3 GitHub stats](https://github-readme-stats.vercel.app/api?username=Eros-capo&count_private=true&&show_icons=true&title_color=11E940&icon_color=9411E9&text_color=daf7dc&bg_color=2A1E3F&border_color=CF2828&locale=it&include_all_commits=true&count_private=true&line_height=24&custom_title=Statistiche%20di%200xC0FF3B4B3&hide=prs)](https://github.com/Eros-Capo)                           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eros-capo&layout=compact&langs_count=20&card_width=300)](https://github.com/Eros-Capo)
 
-🔭  At the moment I am working on a complex and innovative project. More info soon
-👯 I would like to collaborate on open source projects that can be innovative and challenging
-🤝 I always hope to find people with the same passion as me to discuss, learn and develop together
-🌱 I’m currently learning [Solidity, Node, Mocha, Jasmine, Rust, Framer]
-💬 Ask me about [React, Javascript, PHP, Laravel]
-📫 How to reach me --> <a href="https://www.linkedin.com/in/eros-capobianco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="." height="30" width="40" /></a>
-📄 Know about my experiences --> ***COMING SOON***
+🔭  At the moment I am working on a complex and innovative project. More info soon <br>
+👯 I would like to collaborate on open source projects that can be innovative and challenging<br>
+🤝 I always hope to find people with the same passion as me to discuss, learn and develop together<br>
+🌱 I’m currently learning [Solidity, Node, Mocha, Jasmine, Rust, Framer]<br>
+💬 Ask me about [React, Javascript, PHP, Laravel]<br>
+📫 How to reach me --> <a href="https://www.linkedin.com/in/eros-capobianco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="." height="30" width="40" /></a><br>
+📄 Know about my experiences --> ***COMING SOON***<br>
 ⚡ Fun fact : 
 
     {
