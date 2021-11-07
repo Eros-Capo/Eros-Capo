@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[![0xC0FF3B4B3 GitHub stats](https://github-readme-stats.vercel.app/api?username=Eros-capo&count_private=true&&show_icons=true&title_color=11E940&icon_color=9411E9&text_color=daf7dc&bg_color=2A1E3F&border_color=CF2828&locale=it&include_all_commits=true&count_private=true&line_height=28&custom_title=Statistiche%20di%200xC0FF3B4B3&hide=prs)](https://github.com/Eros-Capo)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eros-capo&layout=compact&langs_count=20)](https://github.com/Eros-Capo)
+[![0xC0FF3B4B3 GitHub stats](https://github-readme-stats.vercel.app/api?username=Eros-capo&count_private=true&&show_icons=true&title_color=11E940&icon_color=9411E9&text_color=daf7dc&bg_color=2A1E3F&border_color=CF2828&locale=it&include_all_commits=true&count_private=true&line_height=28&custom_title=Statistiche%20di%200xC0FF3B4B3&hide=prs)](https://github.com/Eros-Capo) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eros-capo&layout=compact&langs_count=20)](https://github.com/Eros-Capo)
 <!--
 **Eros-Capo/Eros-Capo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github-readme-stats.vercel.app/api/top-langs/?username=Eros-capo&layout=compact&langs_count=20
