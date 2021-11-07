@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 
     {
 	    data: { 
-			    id: 0,
-			    content: "I think I can't find someone like me xD"
-			  }
+		id: 0,
+		content: "I think I can't find someone like me xD"
+		}
 	}
 
 ![](https://github-profile-trophy.vercel.app/?username=eros-capo&theme=radical&margin-w=40&no-frame=true) 
