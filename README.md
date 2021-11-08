@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 💬 Ask me about [React, Javascript, PHP, Laravel]<br>
 📫 How to reach me --> <a href="https://www.linkedin.com/in/eros-capobianco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="." height="30" width="40" /></a><br>
 📄 Know about my experiences --> ***COMING SOON***<br>
+📄 My latests works:
+	{
+	
+	}
 ⚡ Fun fact : 
 
     {
