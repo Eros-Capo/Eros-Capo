@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 📫 How to reach me --> <a href="https://www.linkedin.com/in/eros-capobianco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="." height="30" width="40" /></a><br>
 📄 Know about my experiences --> ***COMING SOON***<br>
 📄 My latests works:
-	{
-	
-	}
+	> Server CRM -->> Plain ReactJS Website -->>  https://www.server-crm.cloud/
+	> Domenico Liggeri -->> High Content-Typography Wordpress Website -->> https://www.domenicoliggeri.it/
+	> Motive Reseller -->> Dynamic Web App Laravel/React.js -->> https://www.app.motivereseller.com/
+	> Garage Roma Snc -->> Simple and Clean Wordpress Theme -->> https://www.garageromasnc.com/
 ⚡ Fun fact : 
 
     {
