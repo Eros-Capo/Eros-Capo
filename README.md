@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 👯 I would like to collaborate on open source projects that can be innovative and challenging<br>
 🤝 I always hope to find people with the same passion as me to discuss, learn and develop together<br>
 🌱 I’m currently learning [Solidity, Node, Mocha, Jasmine, Rust, Framer]<br>
-💬 Ask me about [React, Javascript, PHP, Laravel]<br>
+💬 Ask me about [React, Javascript, PHP, Laravel, React Native]<br>
 📫 How to reach me --> <a href="https://www.linkedin.com/in/eros-capobianco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="." height="30" width="40" /></a><br>
 
 📄 Know about my experiences --> ***COMING SOON***<br>
