@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 📄 Know about my experiences --> ***COMING SOON***<br>
 
-📄 My latests works:
+📄 My old works:
 > Server CRM -->> Plain ReactJS Website -->>  https://www.server-crm.cloud/
 
 > Domenico Liggeri -->> High Content-Typography Wordpress Website -->> https://www.domenicoliggeri.it/
