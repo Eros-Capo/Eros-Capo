@@ -181,9 +181,9 @@ $ ps aux | grep research
 </div>
 
 -->
-## 🏔️ GitHub Skyline
+## 🐍 Cyber Contribution Snake
 <div align="center">
-  <img src="https://skyline.github.com/Eros-Capo/2024.png)" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Eros-Capo/Eros-Capo/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
