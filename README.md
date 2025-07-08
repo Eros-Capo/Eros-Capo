@@ -1,58 +1,190 @@
-<!--### Hi there 👋
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Lock" width="35" height="35" /> Welcome to WhiteAstra
 
-[![0xC0FF3B4B3 GitHub stats](https://github-readme-stats.vercel.app/api?username=Eros-capo&count_private=true&&show_icons=true&title_color=11E940&icon_color=9411E9&text_color=daf7dc&bg_color=2A1E3F&border_color=CF2828&locale=it&include_all_commits=true&count_private=true&line_height=24&custom_title=Statistiche%20di%200xC0FF3B4B3&hide=prs)](https://github.com/Eros-Capo)                           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eros-capo&layout=compact&langs_count=9&card_width=300)](https://github.com/Eros-Capo)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%F0%9F%94%8D+Bug+Bounty+Hunter;%F0%9F%9B%A1%EF%B8%8F+Penetration+Tester;%F0%9F%92%80+Security+Researcher;%F0%9F%8E%AF+CVE+Hunter;%F0%9F%93%A1+0day+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Hunting-00ff00?style=for-the-badge&logo=hackerone&logoColor=white" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=Eros-Capo&label=Threat+Actors&color=00ff00&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Applications%20Security-ff0000?style=for-the-badge&logo=ethereum&logoColor=white" alt="Focus" />
+</div>
+
+```bash
+$ whoami
+```
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne" />
+  <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd" />
+  <img src="https://img.shields.io/badge/Synack-000000?style=for-the-badge&logo=synack&logoColor=white" alt="Synack" />
+  <img src="https://img.shields.io/badge/Intigriti-161A3A?style=for-the-badge&logo=intigriti&logoColor=white" alt="Intigriti" />
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> $ cat /etc/profile
+
+```javascript
+const hunter = {
+    handle: "WhiteAstra",
+    specialization: ["Web Security", "API Testing", "Attack Surface Management", "Cybersecurity Assessments", "Penetration Test"],
+    certifications: ["GCP", "ECPPTV2", "67 more..."],
+    currentTargets: ["Dynamic Web Applications", "Large Lenguage Models", "Smart Contracts"],
+    aboutMe: "As a passionate Cyber Offense Expert, I thrive at the intersection of advanced technical security and strategic business value.",
+    availableFor: "Collaborating on papers or open source projects that can be innovative and challenging",
+    thoughts: "I enjoy finding people with my same passion to discuss, learn and develop together"
+};
+```
 <!--
-**Eros-Capo/Eros-Capo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://github-readme-stats.vercel.app/api/top-langs/?username=Eros-capo&layout=compact&langs_count=20
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Piacere di conoscerti! Sono 0xC0FF3B4B3!
-
-### Sono uno sviluppatore, sono curioso e cerco sempre nuove sfide nel mio settore.
-
-[![0xC0FF3B4B3 GitHub stats]( https://github-readme-stats.vercel.app/api?username=Eros-capo&count_private=true&&show_icons=true&title_color=11E940&icon_color=9411E9&text_color=daf7dc&bg_color=2A1E3F&border_color=CF2828&locale=en&include_all_commits=true&count_private=true&line_height=24&custom_title=0xC0FF3B4B3%20stats&hide=prs)](https://github.com/Eros-Capo)                           [![Top Langs]( https://github-readme-stats.vercel.app/api/top-langs/?username=Eros-capo&layout=compact&langs_count=20&card_width=300)](https://github.com/Eros-Capo)
-
-🔭  At the moment I am working on a complex and innovative project. More info soon <br>
-👯 I would like to collaborate on open source projects that can be innovative and challenging<br>
-🤝 I always hope to find people with the same passion as me to discuss, learn and develop together<br>
-🌱 I’m currently learning [Solidity, Node, Mocha, Jasmine, Rust, Framer]<br>
-💬 Ask me about [React, Javascript, PHP, Laravel, React Native]<br>
-📫 How to reach me --> <a href="https://www.linkedin.com/in/eros-capobianco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="." height="30" width="40" /></a><br>
-
-📄 Know about my experiences --> ***COMING SOON***<br>
-
 📄 My old works:
-> Server CRM -->> Plain ReactJS Website -->>  https://www.server-crm.cloud/
+> Server CRM - Plain ReactJS Website   https://www.server-crm.cloud/
+> Domenico Liggeri >> High Content-Typography Wordpress Website > https://www.domenicoliggeri.it/
+> Motive Reseller > Dynamic Web App Laravel/React.js >> https://www.app.motivereseller.com/
+> Garage Roma Snc >> Simple and Clean Wordpress Theme >> https://www.garageromasnc.com/
+> Mobile App >> *Publication Canceled* 
+-->
 
-> Domenico Liggeri -->> High Content-Typography Wordpress Website -->> https://www.domenicoliggeri.it/
+<!-- 
+    achievements: {
+        totalBounties: "150+",
+        criticalFindings: "25+",
+        hallOfFame: ["Google", "Meta", "GitHub", "Microsoft"],
+        highestBounty: "$XX,XXX"
+    },
+-->
 
-> Motive Reseller -->> Dynamic Web App Laravel/React.js -->> https://www.app.motivereseller.com/
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="25" height="25" /> Security Arsenal
 
-> Garage Roma Snc -->> Simple and Clean Wordpress Theme -->> https://www.garageromasnc.com/
+<div align="center">
 
-> Mobile App -->> *Publication Canceled* 
+### 💻 Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-⚡ Fun fact : 
+### ☁️ Cloud Security
+![AWS Security](https://img.shields.io/badge/AWS_Security-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure Security](https://img.shields.io/badge/Azure_Security-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP Security](https://img.shields.io/badge/GCP_Security-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-    {
-	    data: { 
-		id: 0,
-		content: "I think I can't find someone like me xD"
-	    }
-	}
+</div>
 
-![](https://github-profile-trophy.vercel.app/?username=eros-capo&theme=radical&margin-w=40&no-frame=true) 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> My Stats
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eros-Capo&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&title_color=00ff00&icon_color=00ff00" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eros-Capo&theme=chartreuse-dark&hide_border=true&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="GitHub Streak" height="165" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eros-Capo&layout=compact&bg_color=000000&text_color=00ff41&title_color=00ff41&hide_border=true&border_radius=0&langs_count=15" alt="Top Used Lang" height="165" />
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eros-capo&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Eros-Capo)<p align="left"> <img src="https://komarev.com/ghpvc/?username=eros-capo&label=Profile%20views&color=0e75b6&style=flat" alt="eros-capo" /> </p>
+<div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=Eros-Capo&theme=monokai&margin-w=15&no-frame=true&no-bg=true&column=8" alt="Top Used Lang" height="165" />
+</div>
+<!-- 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="25" height="25" /> Hall of Fame
+
+<div align="center">
+
+| Platform | Rank | Points | Valid Reports |
+|----------|------|--------|---------------|
+| 🥇 HackerOne | #XXX | X,XXX | XXX |
+| 🥈 Bugcrowd | #XXX | X,XXX | XXX |
+| 🥉 Intigriti | #XXX | X,XXX | XXX |
+
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> Latest CVEs & Findings
+
+```markdown
+🔴 CVE-2024-XXXXX - Critical RCE in [Redacted] (Bounty: $XX,XXX)
+🟠 CVE-2024-XXXXX - High SSRF in [Redacted] (Bounty: $X,XXX)
+🟡 CVE-2024-XXXXX - Medium SQLi in [Redacted] (Bounty: $X,XXX)
+🟢 CVE-2024-XXXXX - Low XSS in [Redacted] (Bounty: $XXX)
+```
+-->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" /> Contribution Matrix
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eros-Capo&theme=github-dark&hide_border=true&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff" alt="Contribution Graph" />
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" alt="Lock" width="25" height="25" /> Security Projects
+
+<div align="center">
+  <a href="https://github.com/Eros-Capo/XSS_Detector_Laravel_React">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eros-Capo&repo=XSS_Detector_Laravel_React&theme=chartreuse-dark&hide_border=true" alt="Old DOM XSS Finder" />
+  </a>
+	<!-- 
+  <a href="https://github.com/yourusername/web3-security-audits">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eros-Capo&repo=web3-security-audits&theme=chartreuse-dark&hide_border=true" alt="Web3 Audits" />
+  </a>
+	-->
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Current Operations
+
+```bash
+$ ps aux | grep research
+```
+- 🔍 Researching **Artificial Intelligence & Smart Contract Attack Vectors**
+- 📝 Writing **"Technical writeups in my personal blog"**
+- 🛠️ Building **Automated Recon Tools**
+- 🎓 Preparing for **CBP Certification**
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Connect & Collaborate
+
+<div align="center">
+	<!-- 
+  <a href="https://hackerone.com/yourusername">
+    <img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne" />
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+	-->
+  <a href="https://www.linkedin.com/in/eros-capobianco/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.whiteastra.com/">
+    <img src="https://img.shields.io/badge/whiteastra.com-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" alt="My Blog" />
+  </a>
+  <a href="https://orcid.org/0000-0001-9439-3092">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="Orcid" />
+  </a>
+  <a href="https://ieeexplore.ieee.org/author/37089542891">
+    <img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE" />
+  </a>
+</div>
+
+<!--
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Warning.png" alt="Warning" width="25" height="25" /> Disclaimer
+
+```
+⚠️ All security research is conducted ethically and within legal boundaries.
+🛡️ Responsible disclosure is always practiced.
+📜 Authorization is obtained before any security testing.
+```
+-->
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Eros-Capo/Eros-Capo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Happy%20Hunting!-00ff00?style=for-the-badge" alt="Happy Hunting" />
+  
+  ```
+  ┌─[root@kali]─[~]
+  └──╼ # Hacking Ethically
+  ```
+</div>
