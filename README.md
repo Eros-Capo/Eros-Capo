@@ -175,9 +175,15 @@ $ ps aux | grep research
 ```
 -->
 ---
-
+<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/Eros-Capo/Eros-Capo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+-->
+## 🏔️ GitHub Skyline
+<div align="center">
+  <img src="https://skyline.github.com/Eros-Capo/2024.png)" alt="Snake animation" />
 </div>
 
 <div align="center">
