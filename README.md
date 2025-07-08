@@ -19,6 +19,7 @@ $ whoami
   <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd" />
   <img src="https://img.shields.io/badge/Synack-000000?style=for-the-badge&logo=synack&logoColor=white" alt="Synack" />
   <img src="https://img.shields.io/badge/Intigriti-161A3A?style=for-the-badge&logo=intigriti&logoColor=white" alt="Intigriti" />
+  <img src="https://img.shields.io/badge/YesWeHack-111111?style=for-the-badge&logo=yeswehack&logoColor=white" alt="YesWeHack" />
 </div>
 
 ---
