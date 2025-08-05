@@ -30,7 +30,7 @@ $ whoami
 const hunter = {
     handle: "WhiteAstra",
     specialization: ["Web Security", "API Testing", "Attack Surface Management", "Cybersecurity Assessments", "Penetration Test"],
-    certifications: ["GCP", "ECPPTV2", "67 more..."],
+    certifications: ["GCP", "ECPPTV2", "CBP", "67 more..."],
     currentTargets: ["Dynamic Web Applications", "Large Lenguage Models", "Smart Contracts"],
     aboutMe: "As a passionate Cyber Offense Expert, I thrive at the intersection of advanced technical security and strategic business value.",
     availableFor: "Collaborating on papers or open source projects that can be innovative and challenging",
